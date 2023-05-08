@@ -1,7 +1,7 @@
-using ProjectName.Models;
+using MadLibs.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace ClassName.Controllers
+namespace MadLibs.Controllers
 {
   public class ClassNameController : Controller
   {
