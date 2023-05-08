@@ -1,8 +1,8 @@
-# (PROJECT NAME GOES HERE)
+# (Mad Libs)
 
-#### (QUICK DESCRIPTION OF PROJECT GOES HERE)
+#### (Madlib game)
 
-#### By (NAME GOES HERE)
+#### By (Joseph Wilfong)
 
 ## Technologies Used
 
@@ -14,7 +14,7 @@
 
 ## Description
 
-_DESCRIPTION GOES HERE_
+_A madlib game where user can _
 
 ## Links
 

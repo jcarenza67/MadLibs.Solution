@@ -1,0 +1,11 @@
+@model MadLibs.Models.Words
+
+@{
+    Layout = null;
+}
+
+<h1>Mad Libs Story</h1>
+
+<p>Once upon a time, there was a @ViewBag.MyWords.Adjective1 @ViewBag.MyWords.Noun1. It was @ViewBag.MyWords.Adverb1 @ViewBag.MyWords.Verb1 and @ViewBag.MyWords.Exclamation1!</p>
+
+<a href="/MadLibs/Form">Play again!</a>
